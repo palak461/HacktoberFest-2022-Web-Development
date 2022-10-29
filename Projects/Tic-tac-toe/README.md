@@ -1,4 +1,4 @@
-# Hacktoberfest 2022 - JavaScript Easy Programs
+
 
 ## Tic Tac Toe 
 
@@ -14,11 +14,7 @@ On winning show a message "Wooh! You won." and prove option to play again which 
 <br>It is just an example. You can use any design you want.
 
 ### Contributer
-[RakshitDabral](https://github.com/rakshitdabral)
-
-### Maintainer
-- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
-- [Vaibhav](https://https://www.linkedin.com/in/vaibhava17/)
+[Palak](https://github.com/palak461/)
 
 ### License
 **This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
